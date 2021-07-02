@@ -1,0 +1,15 @@
+body {
+    color: #e83e8c;
+    background-color: #efa31d;
+}
+
+.tag {
+    font-family: Helvetica; 
+    font-size: 1rem;
+}
+
+.jumbotron {
+    background-image: url("../images/how-bacteria-work-orig.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}

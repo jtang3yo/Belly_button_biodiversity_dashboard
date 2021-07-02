@@ -27,4 +27,12 @@ gaugechart<img width="821" alt="gaugechart" src="https://user-images.githubuserc
 	Created style.css with customization css code with color, font, styling refactoring.
 css customize<img width="578" alt="css customize" src="https://user-images.githubusercontent.com/82353749/124331747-dc560b00-db5d-11eb-9bfa-79aa669f248c.png">
 
+	Bellybutton Biodiversity Dashboard page: 
+page1<img width="1440" alt="page1" src="https://user-images.githubusercontent.com/82353749/124332897-ae25fa80-db60-11eb-8fe1-04d551fc524b.png">
+  	Update interactive filter: 
+interactive filter<img width="1440" alt="interactive filter" src="https://user-images.githubusercontent.com/82353749/124332925-c0079d80-db60-11eb-9aca-4ffe685ad585.png">
+
+Visit interactive data: 
 https://jtang3yo.github.io/Belly_button_biodiversity_dashboard/challenge/index.html
+
+-- JavaScript, D3.js, Plotly, Bootstrap, CSS and HTML 
